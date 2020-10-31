@@ -1,0 +1,49 @@
+https://my-json-server.typicode.com/Smile-catt/moskjson/users
+
+[
+  {
+    "title": "Chateau Les Jouberts",
+    "region": "France",
+    "manufortress": "Chateau Les Jouberts",
+    "fortress": "13%",
+    "type": "Red",
+    "sugar": "Dry",
+    "price": "519 ru"
+  },
+  {
+    "title": " Marsuret",
+    "region": "Italy",
+    "manufortress": "Marsuret",
+    "fortress": "11.5%",
+    "type": "White",
+    "sugar": "Dry",
+    "price": "1 034 ru"
+  },
+  {
+    "title": "Clos Amador",
+    "region": "Spain",
+    "manufortress": "Pere Ventura",
+    "fortress": "11.5%",
+    "type": "Red",
+    "sugar": "Dry",
+    "price": "911 ru"
+  },
+  {
+    "title": "Anthony's Hill",
+    "region": "USA",
+    "manufortress": "Fetzer",
+    "fortress": "10.5%",
+    "type": "Pink",
+    "sugar": "Semisweet",
+    "price": "1 040 ru"
+  },
+  {
+    "title": "Askaneli Brothers",
+    "region": "Georgia",
+    "manufortress": "Askaneli Brothers",
+    "fortress": "13%",
+    "type": "Orange",
+    "sugar": "Dry",
+    "price": "827 ru"
+  }
+]
