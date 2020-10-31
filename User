@@ -1,0 +1,12 @@
+package com.example.lr
+
+
+data class User (
+    val title: String,
+    val region: String,
+    val manufacturer: String,
+    val fortress: String,
+    val type: String,
+    val sugar: String,
+    val price: String
+)
